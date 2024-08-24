@@ -1,4 +1,4 @@
-##Simple VBS Obfuscator
+## Simple VBS Obfuscator
 While investigating a Windows malware infection, 
 I encountered an obfuscated VBS payload. 
 I reverse-engineered the obfuscation algorithm and 
