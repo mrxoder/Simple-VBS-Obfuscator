@@ -1,6 +1,6 @@
 import sys
 
-camouflage = "\'Votre utilisation du présent logiciel est régie par les termes du contrat de licence au titre duquel vous avez acquis ledit logiciel. Si vous êtes un client de licence en volume, l’utilisation de ce logiciel est régie par votre contrat de licence en volume. Vous n’êtes pas autorisé à utiliser ce logiciel si vous n’avez pas acquis une licence valide du logiciel auprès de Microsoft ou de l’un de ses distributeurs agréés.\n\'Copyright (C) 2015"
+camouflage = "\'Your use of this software is governed by the terms of the license agreement under which you acquired this software. If you are a volume licensing customer, the use of this software is governed by your volume license agreement. You are not authorized to use this software if you have not acquired a valid license for the software from Microsoft or one of its authorized distributors.\n\'Copyright (C) 2015"
 func_name = "wh"
 func0_name = "w"
 payload_name = "k"
